@@ -1,0 +1,93 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont:
+  Tahoma,
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Helvetica,
+  Arial,
+  sans-serif,
+  "Apple Color Emoji",
+  "Segoe UI Emoji",
+  "Segoe UI Symbol";
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  max-width: 960px;
+  margin: auto;
+  // padding: 1%;
+  // padding-bottom: 2%;
+  padding: clamp(1rem, 5vw, 4rem) 2rem;
+}
+
+// nav
+nav {
+  font-size: 36px;
+  font-family: Tahoma;
+}
+
+.nav-home {
+  color: inherit;
+  font-style: italic;
+  text-decoration-line: overline underline;
+  text-decoration-style: dotted;
+}
+
+// post
+.post-date {
+  font-size: 12px;
+  font-style: italic;
+}
+
+// index
+ul {
+  margin: 1em;
+  padding: 0;
+}
+
+.post-card {
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-card--link {
+  color: inherit;
+  text-decoration: none;
+}
+.post-card--link:hover {
+  text-decoration: underline;
+}
+// footer
+footer {
+  font-size: 12px;
+}
+
+.footer-link {
+  border-style: dotted;
+  border-width: 2px;
+  padding: 0.25em;
+  margin: 0.25em;
+  margin-left: 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-link:hover {
+  background-color: lightgrey;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  object-fit: cover; /* Keeps aspect ratio while filling space */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px; /* Standard rounded corners */
+}
+

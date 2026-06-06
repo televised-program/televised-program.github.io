@@ -1,0 +1,17 @@
+---
+layout: default
+title: televised program
+permalink: /
+---
+
+<h1>latest posts</h1>
+<ul>
+    {% for post in site.posts %}
+        <li class="post-card">
+            <h2 class="post-card--title">
+                <a class="post-card--link" href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            {{ post.excerpt | strip_html }}
+        </li>
+    {% endfor %}
+</ul>
