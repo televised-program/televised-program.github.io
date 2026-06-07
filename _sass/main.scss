@@ -81,6 +81,7 @@ footer {
   background-color: lightgrey;
 }
 
+// images
 img {
   max-width: 80%;
   height: auto;
@@ -90,4 +91,12 @@ img {
   margin-right: auto;
   border-radius: 8px; /* Standard rounded corners */
 }
+
+.image-description {
+  font-size: smaller;
+  text-align: center;
+  color: grey;
+  font-style: italic;
+}
+
 
