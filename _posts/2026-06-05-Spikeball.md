@@ -27,15 +27,17 @@ Jon's been my buddy since 2022. For his birthday this year, he wanted to do a be
 ## What's that now? The pictures don't help you understand Spikeball?
 I guess these don't really explain it that well. In short, the sport has been a great reason for us to get together. Something to talk about, to bond around. They should've called it Bond Around Net. Hopefully that helps clear things up.
 
-## Ugh
+## This isn't really about Spikeball
 Jon's leaving. It feels impossible to say goodbye to someone you know you'll be close to for the rest of your life. You know it's not goodbye, but it's something _like_ goodbye. It's something like "This isn't going to be the same anymore."
 
 This will be one of our last game days all together, at least with this crew. In this era of our lives.
 
-I know that things change, but change kind of sucks sometimes. Having a day like this, where we can revel in our victories and losses, makes it suck less. I'm glad to have these moments together.
+I know that things change, but change kind of sucks sometimes. Having a day like this, where we can revel in our victories and losses, makes it suck a lot less.
 
+<div class="img-div">
 {% for photo in site.static_files %}
 {% if photo.path contains 'jon-bday-2026-browns-9.jpg' %}
 <img src="{{ photo.path | relative_url }}" />
 {% endif %}
 {% endfor %}
+</div>
