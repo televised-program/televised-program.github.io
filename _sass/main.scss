@@ -59,7 +59,7 @@ nav {
 
 // post
 .post-date {
-  font-size: 12px;
+  font-size: .5em;
   font-style: italic;
 }
 
@@ -130,4 +130,38 @@ img {
   font-style: italic;
 }
 
+// @media screen and (max-width: 789px) {
+// @media screen and (min-width: 300px) and (max-width: 992px) and (orientation: portrait){
+@media screen and (min-width: 300px) and (max-width: 992px) and (orientation: portrait) and (pointer: coarse){
+// @media screen and (max-width: 800px) {
+  body {
+    font-size: 4.5vw;
+    // font-size: 200px;
+  }
+
+  nav {
+    font-size: 1em;
+  }
+
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 3rem;
+  }
+
+  .post-date {
+    font-size: .5em;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  footer {
+    font-size: 1rem;
+  }
+
+}
 
