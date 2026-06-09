@@ -59,7 +59,7 @@ nav {
 
 // post
 .post-date {
-  font-size: .5em;
+  font-size: .75rem;
   font-style: italic;
 }
 
@@ -130,13 +130,9 @@ img {
   font-style: italic;
 }
 
-// @media screen and (max-width: 789px) {
-// @media screen and (min-width: 300px) and (max-width: 992px) and (orientation: portrait){
 @media screen and (min-width: 300px) and (max-width: 992px) and (orientation: portrait) and (pointer: coarse){
-// @media screen and (max-width: 800px) {
   body {
     font-size: 4.5vw;
-    // font-size: 200px;
   }
 
   nav {
