@@ -79,12 +79,13 @@ nav {
   text-decoration: none;
 }
 
-.post-card--link {
+.post-card--link, p a {
   color: inherit;
   text-decoration-line: underline;
   text-decoration-style: dotted;
+  text-decoration-thickness: .1em;
 }
-.post-card--link:hover {
+.post-card--link:hover, p a:hover {
   background-color: lightgrey;
   text-decoration-line: underline;
   text-decoration-style: dotted;
@@ -111,23 +112,13 @@ footer {
   background-color: lightgrey;
 }
 
-// images
-.img-container {
-  display: table;
-  width: 90%;
-  height: 100%;
-  margin: 0 auto;
-  text-align: center;
-  float: none;
-  padding: 5px;
-}
-
 img {
-  height: 100%;
-  max-height: 95vh;
   max-width: 100%;
-  object-fit: scale-down;
-  clip-path: inset(0 round 10px); 
+  max-height: 95vh;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 12px;
+  display:block;
 }
 
 .img-caption {
@@ -135,10 +126,13 @@ img {
   text-align: center;
   color: grey;
   font-style: italic;
+  padding: 5px;
 }
 
 @media screen and (min-width: 300px) and (max-width: 992px) and (orientation: portrait) and (pointer: coarse){
   body {
+    width: 100vw;
+    min-width: 95%;
     font-size: 4.5vw;
   }
 
@@ -159,7 +153,7 @@ img {
   }
 
   img {
-    width: 100%;
+    width: 100vw;
   }
 
   footer {
