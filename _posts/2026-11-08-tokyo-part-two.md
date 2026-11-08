@@ -95,4 +95,4 @@ That does not bother me _at all_.
 {% endfor %}
 
 ## Next up...
-I stayed one night in Nikko before packing my stuff up and heading to Hakone. Both beautiful spots. As I write this, I'm on the shinkansen from Ordawara to Kyoto. I'm looking forward to seeing all the shrines and castles.
+I stayed one night in Nikko before packing my stuff up from Tokyo and heading to Hakone. Both beautiful spots. As I write this, I'm on the shinkansen from Ordawara to Kyoto. So, get ready for more pictures of five-story pagodas.
