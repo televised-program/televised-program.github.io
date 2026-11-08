@@ -94,5 +94,13 @@ That does not bother me _at all_.
 {% endif %}
 {% endfor %}
 
+## What have I been up to?
+It took me a few weeks to really settle into moving slower and to feel comfortable with it.
+I'm taking so many photos, I don't have time to edit them all!
+
+After five weeks, I said goodbye to my share house in Tokyo.
+Tokyo wasn't quite home, but I had a small routine of visiting the local coffee shop and British-inspired Japanese restaurant.
+It made me more sad to say goodbye than I expected, honestly.
+
 ## Next up...
 I stayed one night in Nikko before packing my stuff up from Tokyo and heading to Hakone. Both beautiful spots. As I write this, I'm on the shinkansen from Ordawara to Kyoto. So, get ready for more pictures of five-story pagodas.
