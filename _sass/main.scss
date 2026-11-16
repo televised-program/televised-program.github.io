@@ -42,25 +42,45 @@ h2 {
 
 
 // nav
-nav {
+.nav-home {
   font-size: 2em;
+  display: flex;
 }
 
 .nav-home {
+  width: fit-content;
   color: inherit;
   font-style: italic;
-  text-decoration-line: overline underline;
-  text-decoration-style: dotted;
+  text-decoration-line: none;
 }
 
-.nav-home:hover {
+.nav-home:hover, .nav-link:hover {
   background-color: lightgrey;
 }
+
+
+.nav-links {
+  display: flex;
+  justify-content: flex-start;
+  margin: .7em;
+  margin-left: 0;
+  margin-bottom: 2em;
+}
+.nav-link {
+  margin-right: 1em;
+  color: inherit;
+  font-style: italic;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: .1em;
+}
+
 
 // post
 .post-date {
   font-size: .75rem;
   font-style: italic;
+  margin-bottom: 3em;
 }
 
 .post-content {
@@ -151,6 +171,7 @@ img {
   .post-date {
     font-size: .5em;
   }
+
 
   img {
     width: 100vw;
