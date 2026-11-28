@@ -27,7 +27,7 @@ Also, importantly to me, I got to see a giant bell being rung by a monk. The thi
 
 {% include img.html src='/assets/images/tokyo-part-three-2026/bell.jpeg' %}
 
-Hearing its deep ring and feeling the reverberations nearly made me cry. Every once in a while it really hits me that it's so cool that I'm here and that I can experience something like this.
+Hearing its deep ring and feeling the reverberations nearly made me cry. Every once in a while it really hits me how cool it is that I'm here and that I can experience something like this.
 
 ## Nikkō
 Sure, the blog title says Tokyo, but a quick excursion to Nikkō was necessary before leaving Tokyo since it's just about two hours away. This town came highly recommended by many people and is often a weekend excursion for Tokyoites.
