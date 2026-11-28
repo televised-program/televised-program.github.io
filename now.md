@@ -8,7 +8,7 @@ permalink: /now
 Inspired by [nownownow.com](https://nownownow.com).
 
 ## _travel_
-I am in Kobe, Japan until November 23, 2026. Then off to Chiang Mai, Thailand!
+I am in Kobe, Japan until December 23, 2026. Then off to Chiang Mai, Thailand!
 
 Since early October, I've been in Tokyo, Hakone, Kyoto, and Kanazawa, Osaka, and Kobe, with my longest stint being in Tokyo for five weeks. That and Hakone have been my favorites in Japan so far.
 
