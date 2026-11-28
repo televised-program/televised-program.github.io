@@ -8,9 +8,9 @@ permalink: /now
 Inspired by [nownownow.com](https://nownownow.com).
 
 ## _travel_
-I am in Kanazawa, Japan until November 19, 2026. Then off to Osaka until late December. After that, Thailand!
+I am in Kobe, Japan until November 23, 2026. Then off to Chiang Mai, Thailand!
 
-Since early October, I've been in Tokyo, Hakone, Kyoto, and Kanazawa, with my longest stint being in Tokyo for five weeks. That and Hakone have been my favorites in Japan so far.
+Since early October, I've been in Tokyo, Hakone, Kyoto, and Kanazawa, Osaka, and Kobe, with my longest stint being in Tokyo for five weeks. That and Hakone have been my favorites in Japan so far.
 
 ## _reading_
 Currently reading _Wind-Up Bird Chronicle_ by Haruki Murakami. It has very funny lines like "All I knew about Malta was the Herb Alpert performance of 'The Sands of Malta,' an authentic stinker of a song."
